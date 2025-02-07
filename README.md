@@ -1,4 +1,4 @@
 ini adalah readme
 
 
-ini nambahin dari branh temen
+ini nambahin asalnya dari branch kita
